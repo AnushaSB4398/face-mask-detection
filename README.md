@@ -15,3 +15,10 @@ matplotlib
 
 *****to train the model run train.ipynb 
 *****to detect the face mask run detect_mask.ipynb
+
+
+the dataset for the face mask detection is downloded from the github repository
+https://github.com/prajnasb/observations/tree/master/experiements/data
+
+
+
